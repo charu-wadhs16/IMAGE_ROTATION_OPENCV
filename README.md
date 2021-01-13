@@ -26,6 +26,8 @@ C++
 
 All in-built functions are used to make this project:
 
+imread();
+
 getRotationMatrix2D();
 
 warpAffine();
@@ -37,6 +39,18 @@ imshow();
 waitKey();
 
 destroyWindow();
+
+RotatedRect ();
+
+Attributes
+
+Rect2f
+typedef Rect_<float> cv::Rect2f
+  
+Point2f cv::RotatedRect::center
+
+
+
 
 
 
