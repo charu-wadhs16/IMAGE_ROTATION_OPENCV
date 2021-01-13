@@ -26,11 +26,16 @@ C++
 
 All in-built functions are used to make this project:
 
-getRotationMatrix2D()
-warpAffine(): The function warpAffine transforms the source image using the rotation matrix
-namedWindow()
+getRotationMatrix2D();
+
+warpAffine();
+
+namedWindow();
+
 imshow();
+
 waitKey();
+
 destroyWindow();
 
 
